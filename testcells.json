@@ -1,0 +1,19 @@
+{
+  "id": "13371337",
+  "cells": [
+    {
+      "name": "Bronze spear",
+      "amount": 1,
+      "items": [
+        "Bronze spear"
+      ]
+    },
+    {
+      "name": "Bones",
+      "amount": 5,
+      "items": [
+        "Bones"
+      ]
+    }
+  ]
+}
