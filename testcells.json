@@ -7,6 +7,8 @@
       "amount": 1,
       "items": [
         "Bronze spear"
+      ],
+      "from": [
       ]
     },
     {
@@ -14,6 +16,26 @@
       "amount": 2,
       "items": [
         "Bones"
+      ],
+      "from": [
+      ]
+    },
+    {
+      "name": "Bronze sq shield",
+      "amount": 2,
+      "items": [
+        "Bronze sq shield"
+      ],
+      "from": [
+      ]
+    },
+    {
+      "name": "Coins",
+      "amount": 10,
+      "items": [
+        "Coins"
+      ],
+      "from": [
       ]
     }
   ]
